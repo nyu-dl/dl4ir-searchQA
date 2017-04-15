@@ -16,8 +16,8 @@ NOTE: We will release the json files that have been gathered using this script, 
 
 -------
 Some requirements:
-nltk==3.2.1
-pandas==0.18.1
-selenium==2.53.6
-pytest==3.0.2
-pytorch==0.1.11
+nltk==3.2.1  
+pandas==0.18.1  
+selenium==2.53.6  
+pytest==3.0.2  
+pytorch==0.1.11  
