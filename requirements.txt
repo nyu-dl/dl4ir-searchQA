@@ -1,0 +1,5 @@
+nltk==3.2.1
+pandas==0.18.1
+selenium==2.53.6
+# development
+pytest==3.0.2
