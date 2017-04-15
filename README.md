@@ -1,5 +1,9 @@
 # SearchQA
 
+Associated paper: 
+
+COMING SOON
+
 Here are the files used in the training testing and validation:
 
 https://drive.google.com/open?id=0B51lBZ1gs1XTR3BIVTJQWkREQU0
