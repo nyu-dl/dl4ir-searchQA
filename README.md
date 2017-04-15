@@ -1,11 +1,9 @@
 # SearchQA
 
-Associated paper: 
-
+Associated paper:  
 COMING SOON
 
-Here are the files used in the training testing and validation:
-
+Here are the files used in the training testing and validation:  
 https://drive.google.com/open?id=0B51lBZ1gs1XTR3BIVTJQWkREQU0
 
 -------
@@ -15,6 +13,7 @@ One can collect the original json files through web search using the scripts in 
 NOTE: We will release the json files that have been gathered using this script, as well as the script that converts them to the training files in the link above.
 
 -------
+
 Some requirements:
 nltk==3.2.1  
 pandas==0.18.1  
